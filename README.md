@@ -23,7 +23,7 @@ Received= The provided code is a header file named "PAT_RTOS_UART0.h" for managi
 
 Received= S) environment. Here's a summary of what each part of the code does:
 
-[Received]= 0123456789
+[Received].()= 0123456789
 
 
 ## Getting Started
