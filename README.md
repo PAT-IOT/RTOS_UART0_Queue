@@ -1,4 +1,5 @@
 
+
 # Real-Time Operating System (RTOS) UART Communication
 
 This repository contains code for managing UART communication in a real-time operating system (RTOS) environment. The provided code demonstrates the behavior of UART communication and serial output.
